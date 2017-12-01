@@ -4,7 +4,7 @@ public class Atsuya {
 
 	public static void main(String[] args) {
 		System.out.println("Shimeji");
-		System.out.println("しめじ");
+		System.out.println("トイレット");
 	}
 
 }
